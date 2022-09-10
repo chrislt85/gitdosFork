@@ -9,6 +9,13 @@ misApuntes.txt
 /personal
 
 
+node_modules/
+
+package.json
+
+package-lock.json
+
+
 
 
 
